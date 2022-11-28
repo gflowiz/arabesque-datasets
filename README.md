@@ -6,7 +6,7 @@ Plusieurs jeux de données géonumériques sont proposés avec _Arabesque. Ils p
 
 Les données de références proposées dans la section [Preset node datasets](https://gflowiz.github.io/arabesque-doc/data-import.html#preset-nodes-dataset) permettent de géolocaliser si besoin les fichiers importés, à partir de fonds de carte pré enregistrés dans l'application. Ces derniers correspondent à des fichiers élaborés et mis à disposition librement par des organismes producteurs de données reconnus et qui, pour l'occasion, ont fait l'objet d'une simplification de leurs attributs et/ou de leur géométrie.
 
-Les sources utilisées pour construire les données de référence de _Arabesque_ sont :
+Les sources utilisées pour construire ces données de référence disponibles dans [./arabesque-datasets/geom](https://github.com/gflowiz/arabesque-datasets/tree/main/geom) sont :
 
 ### Niveau mondial/World level :
 - Natural Earth data 	</br>
@@ -32,7 +32,8 @@ Leurs métadonnées des données sont présentées dans la documentation, en fon
 
 ## Données d'exemples
 
-Certaines de ces données géonumériques de référence servent également à la production d'exemples présentés dans la documentation ou fournies à titre informatif. Les données statistiques d'exemples sont présentés dans la [documentation](https://gflowiz.github.io/arabesque-doc/data-sets-and-examples.html).
+Certaines de ces données géonumériques de référence servent également à la production d'exemples présentés dans la documentation ou fournies à titre informatif.
+Les données statistiques d'exemples [./arabesque-datasets/data](https://github.com/gflowiz/arabesque-datasets/tree/main/data) sont présentés dans la [documentation](https://gflowiz.github.io/arabesque-doc/data-sets-and-examples.html).
 
 ## Wish List
 
